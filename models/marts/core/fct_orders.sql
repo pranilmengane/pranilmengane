@@ -27,4 +27,7 @@ final as (
     left join order_payments using (order_id)
 )
 
-select * from final
+
+
+
+select * from final 
